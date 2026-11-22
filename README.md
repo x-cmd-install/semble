@@ -37,7 +37,7 @@ Total: **107,807** lines of code across **163** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,464 · **Forks**: 295 · **Open issues**: 129 · **Contributors**: 10
+- **Stars**: 6,470 · **Forks**: 295 · **Open issues**: 129 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **107,807** lines of code across **163** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 5 | 2 | 6 | 3 | 5 |
-| last60d | 2026-09-22 | 6 | 17 | 2 | 24 | 4 | 20 |
-| 90d | 2026-08-23 | 8 | 31 | 2 | 31 | 4 | 32 |
-| last180d | 2026-05-25 | 22 | 69 | 2 | 75 | 5 | 69 |
-| 360d | 2025-11-26 | 34 | 162 | 2 | 124 | 5 | 164 |
-| last720d | 2024-12-01 | 34 | 162 | 2 | 124 | 5 | 165 |
+| 30d | 2026-10-23 | 3 | 5 | 1 | 6 | 3 | 2 |
+| last60d | 2026-09-23 | 6 | 17 | 2 | 24 | 4 | 16 |
+| 90d | 2026-08-24 | 8 | 31 | 2 | 31 | 4 | 30 |
+| last180d | 2026-05-26 | 22 | 69 | 2 | 74 | 5 | 66 |
+| 360d | 2025-11-27 | 34 | 162 | 2 | 124 | 5 | 164 |
+| last720d | 2024-12-02 | 34 | 162 | 2 | 124 | 5 | 165 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for semble lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:08:18Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:45:45Z._
