@@ -14,11 +14,11 @@ x install semble
 
 ## Code insight
 
-Total: **107,807** lines of code across **163** files in the top 5 languages.
+Total: **149,782** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 96,997 | 0 | 0 | 93 |
+| Json | 138,972 | 0 | 0 | 104 |
 | Python | 10,591 | 188 | 1,930 | 66 |
 | Toml | 165 | 11 | 19 | 2 |
 | Makefile | 26 | 0 | 8 | 1 |
@@ -32,27 +32,27 @@ Total: **107,807** lines of code across **163** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.7.3` (2026-11-08)
-- **Last commit**: 2026-11-08
+- **Latest**: `v0.7.4` (2026-11-25)
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 6,491 · **Forks**: 294 · **Open issues**: 129 · **Contributors**: 10
+- **Stars**: 6,497 · **Forks**: 295 · **Open issues**: 130 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 162 · **Open PRs**: 2 · **Closed issues**: 124 · **Open issues**: 5 · **Commits**: 165
+- **Releases**: 35 · **Merged PRs**: 164 · **Open PRs**: 2 · **Closed issues**: 124 · **Open issues**: 6 · **Commits**: 167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 3 | 3 | 1 | 6 | 3 | 2 |
-| last60d | 2026-09-26 | 5 | 16 | 2 | 24 | 4 | 16 |
-| 90d | 2026-08-27 | 8 | 30 | 2 | 29 | 4 | 30 |
-| last180d | 2026-05-29 | 21 | 66 | 2 | 69 | 5 | 66 |
-| 360d | 2025-11-30 | 34 | 162 | 2 | 124 | 5 | 164 |
-| last720d | 2024-12-05 | 34 | 162 | 2 | 124 | 5 | 165 |
+| 30d | 2026-10-27 | 4 | 5 | 1 | 6 | 4 | 4 |
+| last60d | 2026-09-27 | 6 | 18 | 2 | 24 | 5 | 18 |
+| 90d | 2026-08-28 | 9 | 32 | 2 | 29 | 5 | 32 |
+| last180d | 2026-05-30 | 21 | 68 | 2 | 69 | 6 | 68 |
+| 360d | 2025-12-01 | 35 | 164 | 2 | 124 | 6 | 166 |
+| last720d | 2024-12-06 | 35 | 164 | 2 | 124 | 6 | 167 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for semble lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:31:43Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:50:40Z._
