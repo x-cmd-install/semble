@@ -37,22 +37,22 @@ Total: **149,814** lines of code across **174** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,498 · **Forks**: 296 · **Open issues**: 130 · **Contributors**: 11
+- **Stars**: 6,502 · **Forks**: 296 · **Open issues**: 131 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 165 · **Open PRs**: 0 · **Closed issues**: 126 · **Open issues**: 4 · **Commits**: 168
+- **Releases**: 35 · **Merged PRs**: 165 · **Open PRs**: 0 · **Closed issues**: 126 · **Open issues**: 5 · **Commits**: 168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 6 | 0 | 7 | 2 | 5 |
-| last60d | 2026-09-28 | 6 | 19 | 0 | 26 | 3 | 19 |
-| 90d | 2026-08-29 | 9 | 33 | 0 | 30 | 3 | 33 |
-| last180d | 2026-05-31 | 21 | 69 | 0 | 70 | 4 | 69 |
-| 360d | 2025-12-02 | 35 | 165 | 0 | 126 | 4 | 167 |
-| last720d | 2024-12-07 | 35 | 165 | 0 | 126 | 4 | 168 |
+| 30d | 2026-10-29 | 4 | 5 | 0 | 7 | 3 | 5 |
+| last60d | 2026-09-29 | 6 | 19 | 0 | 26 | 4 | 19 |
+| 90d | 2026-08-30 | 9 | 33 | 0 | 30 | 4 | 33 |
+| last180d | 2026-06-01 | 21 | 69 | 0 | 70 | 5 | 69 |
+| 360d | 2025-12-03 | 35 | 165 | 0 | 126 | 5 | 167 |
+| last720d | 2024-12-08 | 35 | 165 | 0 | 126 | 5 | 168 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for semble lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:32:41Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:32:25Z._
